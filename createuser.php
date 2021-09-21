@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/createuser.css">
 </head>
 
-<body style="background-color :black ;">
+<body style="background-color :grey ;">
 <?php
     include 'conf.php';
     if(isset($_POST['submit'])){
