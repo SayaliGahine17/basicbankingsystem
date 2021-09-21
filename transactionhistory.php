@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 </head>
 
-<body style="background-color :black ;">
+<body style="background-color :grey ;">
 
 <?php
   include 'navbar.php';
