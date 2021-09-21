@@ -13,7 +13,7 @@
     <title>Basic Banking System</title>
   </head>
 
-  <body style="background-color :black ;">
+  <body style="background-color :grey ;">
   <?php
   include 'navbar.php';
   ?>
